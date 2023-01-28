@@ -4,7 +4,7 @@
 
 ---------------------------------------------------------------------------------------------------------------
 <a name="SECTION2"></a>
-# **PROJECT INTRODUCTION**
+## **Project Introduction**
 Welcome to our PLSQL Hospital Management Project! This project is designed to provide a comprehensive management system for hospitals using PLSQL.
 
 ## **Getting Started**
