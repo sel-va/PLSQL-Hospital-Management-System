@@ -1,24 +1,41 @@
+# PLSQL-Hospital-Management-System
+    AUTHOR: SELVA
+    DATE CREATED: 03/03/2021
+
+---------------------------------------------------------------------------------------------------------------
+<a name="SECTION2"></a>
+# **PROJECT INTRODUCTION**
 Welcome to our PLSQL Hospital Management Project! This project is designed to provide a comprehensive management system for hospitals using PLSQL.
 
-Here's a breakdown of what you'll find in this repository:
-1. Database design: The database design for the project is included in the repository. This includes the creation of tables, views, and procedures necessary for the project.
-2. PLSQL code: The PLSQL code for the project is included in the repository. This includes procedures for managing patients, doctors, nurses, and appointments.
-3. User interface: The user interface for the project is included in the repository. This includes forms for managing patients, doctors, nurses, and appointments.
-4. Test data: The repository includes test data that can be used to test the project.
+## **Getting Started**
 
-Before you begin, here are a few things you'll need to have in place:
-1. Oracle Database: You'll need to have an Oracle Database set up.
-2. PLSQL Developer: You'll need to have PLSQL Developer installed on your system.
-3. Access to the Oracle Database: You'll need to have the necessary credentials to access the Oracle Database.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-To run the project, follow these steps:
-1. Clone the repository to your local machine.
-2. Connect to the Oracle Database using PLSQL Developer.
-3. Run the SQL scripts in the "database" folder to create the necessary tables, views, and procedures.
-4. Run the PLSQL code in the "code" folder to create the necessary procedures.
-5. Run the forms in the "forms" folder to access the user interface.
-6. Use the test data in the "testdata" folder to test the project.
+### **Prerequisites**
+
+- Oracle SQL Developer or any other SQL client
+- SQL Plus
+
+### **Installing**
+
+1. Clone the repository to your local machine in C:\HP\
+git clone https://github.com/sel-va/PLSQL-Hospital-Management-System.git
+
+2. Open the project in Oracle SQL Developer or any other SQL client
+3. Connect to the database
+4. Run the SQL scripts named as 'master_script.sql' which are located in the directory "C:\sqltemp\". It will automatically execute all SQL files in the order they are listed.
+ 
+## **Built With**
+
+- [Oracle SQL Developer](https://www.oracle.com/database/technologies/appdev/sql-developer.html)
+- [SQL Plus](https://docs.oracle.com/en/database/oracle/oracle-database/19/sqpug/index.html)
+
+## **Authors**
+- **SELVA** - *Initial work* - [selva](https://github.com/sel-va)
+
+## **License**
+This project is not licensed under the MIT License.
 
 Please note that this project is just an example and it's possible to have additional functionalities and improvements, we welcome any contributions, suggestions or improvements, please feel free to submit a pull request.
 
-Thank you for choosing our PLSQL Hospital Management Project and happy coding!
+Thank you for choosing our PLSQL Hospital Management Project !
