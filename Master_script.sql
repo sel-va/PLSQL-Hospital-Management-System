@@ -2,7 +2,7 @@
 -- Master script to deploy the code
 
 -- Start the spooling process
-SPOOL C:\HP\Master_LOG.TX
+SPOOL C:\HP\Master_LOG.txt
 
 -- sql files to be executed which stored in C:\HP\
 
